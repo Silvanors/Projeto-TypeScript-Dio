@@ -30,3 +30,16 @@ Setup do ambiente:
 
 Para organizar o projeto:
 ->Observar "rootDir": "src", e "outDir": "dist",  e adicionar "include": ["src/**/*.ts"] antes do fechamento final, na penúltima linhas do arquivo tsconfig.json
+
+Outras configurações no tsconfig.json:
+->Target;
+->lib;
+->strict;
+->sourceMap;
+->outDir/rootDir;
+->strictAny;
+->noUsedLocals;
+->noUsedParameters;
+->Etc;
+->Muitos outros em https://www.typescriptlang.org/tsconfig
+
