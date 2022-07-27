@@ -3,18 +3,18 @@ Projeto typescript
 
 Tipos:
 
-Boolean;
-String;
-Listas;
-Enums;
-Any;
-Void;
-Função;
-Unknown;
-Never;
-Muitos outros em https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+*Boolean;
+*String;
+*Listas;
+*Enums;
+*Any;
+*Void;
+*Função;
+*Unknown;
+*Never;
+*[Muitos outros em] (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
-Setup do ambiente:
+1.Setup do ambiente:
 ->Instalar o Node:
  1º) Abrir a pasta do projeto com o terminal;
  2º) Inserir o comando 'npm init';
