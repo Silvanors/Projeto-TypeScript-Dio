@@ -12,34 +12,34 @@ Tipos:
 * Função;
 * Unknown;
 * Never;
-* [Muitos outros em] (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+* Muitos outros em (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 1. Setup do ambiente:
-* ->Instalar o Node:
+* Instalar o Node:
  * 1º) Abrir a pasta do projeto com o terminal;
  * 2º) Inserir o comando 'npm init';
-* ->Instalar o typescript:
+* Instalar o typescript:
  * 1º) No terminal digitar o comando 'npm install -g typescript';
  * 2º) No terminal digitar o comando 'npm install typescript';
- * ->Instalar o lite-server com o comando 'npm install lite-server';
- * ->Inicializar o TSC com o comando 'tsc --init;
- * ->Startar o lite-server no "package.json" adicionando nos scripts "start": "lite-server";
- * ->Startar o script watch no "package.json" adicionando nos scripts "watch": "tsc --watch";
+ * Instalar o lite-server com o comando 'npm install lite-server';
+ * Inicializar o TSC com o comando 'tsc --init;
+ * Startar o lite-server no "package.json" adicionando nos scripts "start": "lite-server";
+ * Startar o script watch no "package.json" adicionando nos scripts "watch": "tsc --watch";
 
-* ->Rodar o NPM SCRIPTS;
+* Rodar o NPM SCRIPTS;
 
 Para organizar o projeto:
-* ->Observar "rootDir": "src", e "outDir": "dist",  e adicionar "include": ["src/**/*.ts"] antes do fechamento final, na penúltima linhas do arquivo tsconfig.json
+* Observar "rootDir": "src", e "outDir": "dist",  e adicionar "include": ["src/**/*.ts"] antes do fechamento final, na penúltima linhas do arquivo tsconfig.json
 
 * Outras configurações no tsconfig.json:
-* ->Target;
-* ->lib;
-* ->strict;
-* ->sourceMap;
-* ->outDir/rootDir;
-* ->strictAny;
-* ->noUsedLocals;
-* ->noUsedParameters;
-* ->Etc;
-* ->[Muitos outros em] (https://www.typescriptlang.org/tsconfig)
+* Target;
+* lib;
+* strict;
+* sourceMap;
+* outDir/rootDir;
+* strictAny;
+* noUsedLocals;
+* noUsedParameters;
+* Etc;
+* Muitos outros em (https://www.typescriptlang.org/tsconfig)
 
